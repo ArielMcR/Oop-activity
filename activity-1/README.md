@@ -14,4 +14,4 @@ Por fim, gera relatórios sobre o uso da biblioteca, como estatísticas de empr�
 populares.
 
 ## Diagrama de Classes
-![Atividade de Poo](https://github.com/user-attachments/assets/7d4e455a-242e-4238-990d-ae41023556ae)
+![Atividade de Poo](https://github.com/user-attachments/assets/a101d7f5-ed91-4f42-9171-816d41beaa2e)
