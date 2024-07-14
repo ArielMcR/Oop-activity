@@ -1,17 +1,17 @@
-package main.java.com.biblioteca.utils.cadastro;
+package main.java.com.voos.utils.cadastro;
 
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import main.java.com.biblioteca.Controle.App;
-import main.java.com.biblioteca.modelos.Reserva_Voo;
-import main.java.com.biblioteca.modelos.Servico;
-import main.java.com.biblioteca.modelos.Usuario;
-import main.java.com.biblioteca.modelos.Voo;
-import main.java.com.biblioteca.modelos.Assento;
+import main.java.com.voos.Controle.App;
+import main.java.com.voos.modelos.Reserva_Voo;
+import main.java.com.voos.modelos.Servico;
+import main.java.com.voos.modelos.Usuario;
+import main.java.com.voos.modelos.Voo;
+import main.java.com.voos.modelos.Assento;
 
-import main.java.com.biblioteca.utils.ExibirMenu;;
+import main.java.com.voos.utils.ExibirMenu;;
 
 public class CadReserva_Voo {
     Scanner sc = new Scanner(System.in);

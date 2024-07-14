@@ -1,4 +1,4 @@
-package main.java.com.biblioteca.modelos;
+package main.java.com.voos.modelos;
 
 public class Assento {
     private Integer numero = 0;

@@ -1,12 +1,12 @@
-package main.java.com.biblioteca.utils.cadastro;
+package main.java.com.voos.utils.cadastro;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-import main.java.com.biblioteca.Controle.App;
-import main.java.com.biblioteca.modelos.Voo;
+import main.java.com.voos.Controle.App;
+import main.java.com.voos.modelos.Voo;
 
 public class CadVoo {
     Scanner sc = new Scanner(System.in);

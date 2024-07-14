@@ -1,4 +1,9 @@
-package main.java.com.biblioteca.modelos;
+package main.java.com.voos.modelos;
+
+import main.java.com.voos.modelos.Assento;
+import main.java.com.voos.modelos.Servico;
+import main.java.com.voos.modelos.Usuario;
+import main.java.com.voos.modelos.Voo;
 
 public class Reserva_Voo {
     private Voo voo;

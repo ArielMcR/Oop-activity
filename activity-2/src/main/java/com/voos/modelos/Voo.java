@@ -1,4 +1,4 @@
-package main.java.com.biblioteca.modelos;
+package main.java.com.voos.modelos;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

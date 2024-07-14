@@ -1,9 +1,9 @@
-package main.java.com.biblioteca.utils.cadastro;
+package main.java.com.voos.utils.cadastro;
 
 import java.util.Scanner;
 
-import main.java.com.biblioteca.Controle.App;
-import main.java.com.biblioteca.modelos.Assento;
+import main.java.com.voos.Controle.App;
+import main.java.com.voos.modelos.Assento;
 
 public class CadAssento {
     Scanner sc = new Scanner(System.in);

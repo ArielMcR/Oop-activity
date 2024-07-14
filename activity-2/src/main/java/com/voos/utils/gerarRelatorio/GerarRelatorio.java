@@ -1,9 +1,9 @@
-package main.java.com.biblioteca.utils.gerarRelatorio;
+package main.java.com.voos.utils.gerarRelatorio;
 
 import java.util.Scanner;
 
-import main.java.com.biblioteca.utils.ExibirMenu;
-import main.java.com.biblioteca.utils.Roteador;
+import main.java.com.voos.utils.ExibirMenu;
+import main.java.com.voos.utils.Roteador;
 
 public class GerarRelatorio {
     public static void gerarRelatorio() {

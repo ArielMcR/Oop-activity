@@ -1,9 +1,9 @@
-package main.java.com.biblioteca.utils.cadastro;
+package main.java.com.voos.utils.cadastro;
 
 import java.util.Scanner;
 
-import main.java.com.biblioteca.Controle.App;
-import main.java.com.biblioteca.modelos.Servico;
+import main.java.com.voos.Controle.App;
+import main.java.com.voos.modelos.Servico;
 
 public class CadServico {
     Scanner sc = new Scanner(System.in);
