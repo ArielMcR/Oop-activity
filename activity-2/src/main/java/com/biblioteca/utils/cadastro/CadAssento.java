@@ -12,8 +12,6 @@ public class CadAssento {
         Assento assento = new Assento();
         System.out.println("Qual o numero do assento: ");
         assento.setNumero(sc.nextInt());
-        System.out.println("Qual a classe do assento: ");
-        assento.setClasse(sc.nextLine());
         App.assentos.add(assento);
         System.out.println("Cadastrado com Sucesso!!!");
         System.out.println("\n\n");
