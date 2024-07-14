@@ -1,14 +1,15 @@
-## Exercício 2
-2 - Sistema de Reservas de Voo:
-O Sistema de Reservas de Voo é uma aplicação destinada a facilitar a reserva de passagens aéreas
-para os usuários. Ele permite que os clientes pesquisem voos disponíveis, selecionem opções
-adequadas conforme suas preferências de data, horário e destino, e efetuem a reserva de assentos. Os
-usuários podem visualizar detalhes sobre os voos, como companhia aérea, horário de partida e
-chegada, e preço dos bilhetes. Além disso, o sistema oferece opções adicionais, como seleção de
-assentos específicos e adição de serviços extras, como bagagem despachada. Uma vez confirmada a
-reserva, os clientes recebem uma confirmação por e-mail com os detalhes da viagem e os bilhetes
-eletrônicos. O sistema também inclui funcionalidades para alterações de reserva e cancelamentos,
-permitindo que os usuários gerenciem suas viagens de forma conveniente.
+## Exercício 3
+3 - Sistema de Gerenciamento de Hospital:
+O Sistema de Gerenciamento de Hospital é uma plataforma desenvolvida para otimizar e organizar
+os processos internos de um hospital. Ele permite o registro e o acesso a informações médicas dos
+pacientes, incluindo histórico de consultas, resultados de exames, prescrições e alergias. Além disso,
+o sistema facilita o agendamento de consultas e procedimentos, tanto para pacientes quanto para
+médicos. Os profissionais de saúde podem usar o sistema para acompanhar o estado de saúde dos
+pacientes, solicitar exames e prescrever medicamentos de forma integrada e eficiente. O sistema
+também pode incluir funcionalidades para gerenciamento de leitos, alocação de recursos e geração
+de relatórios para análise de desempenho e tomada de decisões estratégicas. Em resumo, o Sistema
+de Gerenciamento de Hospital visa melhorar a qualidade do atendimento ao paciente, aumentar a
+eficiência operacional e garantir o cumprimento das normas e regulamentações da área da saúde.
 
 ## Diagrama de Classes
-![Atividade de Poo (1)](https://github.com/user-attachments/assets/fb35fd0c-8ed3-43bb-abbc-b39abbab296d)
+![Atividade de Poo (2)](https://github.com/user-attachments/assets/3799bf0d-0422-44df-8ca3-17b9eada282d)
