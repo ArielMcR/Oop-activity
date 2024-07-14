@@ -74,7 +74,7 @@ public class CadAgenda_Exame {
         Medico medicoSelecionado = App.medicos.get(opcaoSelecionado);
         exame.setMedico(medicoSelecionado);
 
-        System.out.println("Qual o local de exame ? ");
+        System.out.println("Qual o local de exame  ? ");
         exame.setLocal(sc.nextLine());
         sc.nextLine();
         System.out.println("Qual a data e hora da exame ?(HH:MM DD/MM/YYYY)");
