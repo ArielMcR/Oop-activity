@@ -2,6 +2,9 @@ package main.java.com.hospital.modelos;
 
 import java.time.LocalDateTime;
 
+import main.java.com.hospital.modelos.Medico;
+import main.java.com.hospital.modelos.Paciente;
+
 public class Agendar_consulta {
     private Paciente paciente;
     private Medico medico;

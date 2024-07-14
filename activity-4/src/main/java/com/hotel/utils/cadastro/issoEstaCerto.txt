@@ -1,0 +1,1 @@
+Isso é uma boa prática, ou separa com base no S.O.L.I.D ? 
