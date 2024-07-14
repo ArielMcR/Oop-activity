@@ -1,11 +1,19 @@
 {
     "cSpell.words": [
         "codigo",
+        "confirmacao",
+        "descricao",
         "emprestimo",
         "funcionario",
         "getcodigo",
         "opcao",
+        "preco",
         "relatorio",
-        "setcodigo"
+        "saida",
+        "servico",
+        "servicos",
+        "setcodigo",
+        "usuario",
+        "Usuario"
     ]
 }
