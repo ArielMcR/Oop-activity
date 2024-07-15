@@ -97,7 +97,7 @@ public class Listar {
         }
         System.out.println("\n");
         System.out.println("\n");
-        System.out.print("|----------- Lista de Exames Agendadas -----------|\n");
+        System.out.print("|----------- Lista de Reservas Agendadas -----------|\n");
         for (int i = 0; i < App.reserva_Quartos.size(); i++) {
             Reserva_quarto quartos = App.reserva_Quartos.get(i);
             System.out.println("Número do Quarto: " + quartos.getQuarto().getNumeroDoQuarto());

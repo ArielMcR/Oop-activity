@@ -4,6 +4,7 @@
         "confirmacao",
         "descricao",
         "emprestimo",
+        "formater",
         "funcionario",
         "getcodigo",
         "opcao",
