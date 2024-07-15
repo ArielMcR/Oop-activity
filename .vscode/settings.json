@@ -3,6 +3,7 @@
         "codigo",
         "confirmacao",
         "descricao",
+        "Destinatario",
         "emprestimo",
         "formater",
         "funcionario",
