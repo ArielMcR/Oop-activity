@@ -1,9 +1,9 @@
-package main.java.com.academia.utils.gerarRelatorio;
+package main.java.com.alienigena.utils.gerarRelatorio;
 
 import java.util.Scanner;
 
-import main.java.com.academia.utils.ExibirMenu;
-import main.java.com.academia.utils.Roteador;
+import main.java.com.hotel.utils.ExibirMenu;
+import main.java.com.hotel.utils.Roteador;
 
 public class GerarRelatorio {
     public static void gerarRelatorio() {
@@ -17,6 +17,6 @@ public class GerarRelatorio {
             sc.nextLine();
             roteador.roteadorRelatorio(opcaoRelatorio);
 
-        } while (opcaoRelatorio != 5);
+        } while (opcaoRelatorio != 6);
     }
 }

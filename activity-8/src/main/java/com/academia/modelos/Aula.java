@@ -1,11 +1,11 @@
 package main.java.com.academia.modelos;
 
-import java.util.Date;
-
+import java.time.LocalDateTime;
+import java.util.List;
 public class Aula {
     private Professor professor;
-    private Aluno aluno;
-    private Date data;
+    private List<Aluno> aluno;
+    private LocalDateTime data;
 
     public Professor getProfessor() {
         return professor;
@@ -15,19 +15,19 @@ public class Aula {
         this.professor = professor;
     }
 
-    public Aluno getAluno() {
+    public List<Aluno> getAluno() {
         return aluno;
     }
 
-    public void setAluno(Aluno aluno) {
+    public void setAluno(List<Aluno> aluno) {
         this.aluno = aluno;
     }
 
-    public Date getData() {
+    public LocalDateTime getData() {
         return data;
     }
 
-    public void setData(Date data) {
+    public void setData(LocalDateTime data) {
         this.data = data;
     }
 }

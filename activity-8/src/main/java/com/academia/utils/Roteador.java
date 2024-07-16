@@ -3,19 +3,13 @@ package main.java.com.academia.utils;
 import main.java.com.academia.utils.cadastro.*;
 import main.java.com.academia.utils.gerarRelatorio.GerarRelatorio;
 import main.java.com.academia.utils.listagem.Listar;
-import main.java.com.rede_social.utils.cadastro.CadComentario;
-import main.java.com.rede_social.utils.cadastro.CadGrupo;
-import main.java.com.rede_social.utils.cadastro.CadMensagem;
-import main.java.com.rede_social.utils.cadastro.CadPostagem;
-import main.java.com.rede_social.utils.cadastro.CadUsuario;
 
 public class Roteador {
 
-    CadUsuario usuario = new CadUsuario();
-    CadPostagem postagem = new CadPostagem();
-    CadMensagem mensagem = new CadMensagem();
-    CadGrupo grupo = new CadGrupo();
-    CadComentario comentario = new CadComentario();
+    CadAluno aluno = new CadAluno(); //
+    CadProfessor professor = new CadProfessor(); // Adicionar outros cadastros
+    CaDPlanoAssinatura assinatura = new CaDPlanoAssinatura();
+    CadAula aula = new CadAula();
 
     GerarRelatorio relatorio = new GerarRelatorio();
 
@@ -26,24 +20,20 @@ public class Roteador {
     public void roteadorGeral(int opcao) {
         switch (opcao) {
             case 1:
-                usuario.cadastrarUsuario();
+                aluno.cadastrarAluno();
                 break;
 
             case 2:
-                postagem.cadastrarPostagem();
+                professor.cadastrarProfessor();
                 break;
             case 3:
-                mensagem.cadastrarMensagem();
+                assinatura.cadastrarPlano();
                 break;
             case 4:
-                grupo.cadastrarGrupo();
+                aula.cadastrarAula();
                 break;
 
             case 5:
-                comentario.cadastrarComentario();
-                break;
-
-            case 6:
                 relatorio.gerarRelatorio();
                 break;
 
@@ -55,20 +45,17 @@ public class Roteador {
     public void roteadorRelatorio(int opcao) {
         switch (opcao) {
             case 1:
-                listar.listarUsuarios();
+                listar.listarAlunos();
                 break;
 
             case 2:
-                listar.listarPostagens();
+                listar.listarProfessor();
                 break;
             case 3:
-                listar.listarMensagens();
+                listar.listarAssinaturas();
                 break;
             case 4:
-                listar.listarGrupos();
-                break;
-            case 5:
-                listar.listarComentarios();
+                listar.listarAulas();
                 break;
             default:
                 break;

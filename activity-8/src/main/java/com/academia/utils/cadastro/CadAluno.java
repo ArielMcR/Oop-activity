@@ -1,6 +1,5 @@
 package main.java.com.academia.utils.cadastro;
 
-import java.time.LocalDateTime;
 import java.util.Scanner;
 
 import main.java.com.academia.Controle.App;
@@ -31,6 +30,7 @@ public class CadAluno {
         System.out.println("E-mail:");
         aluno.setEmail(sc.nextLine());
 
+        aluno.setStatus("Ativo");
         App.alunos.add(aluno);
         System.out
                 .println("Usuário " + aluno.getNome() + " " + aluno.getSobrenome() + " Cadastrado com Sucesso!!!");

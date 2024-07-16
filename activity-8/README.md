@@ -1,15 +1,15 @@
-## Exercício 6
-6 - Sistema de Gerenciamento de Rede Social:
-Um Sistema de Gerenciamento de Rede Social é uma plataforma digital projetada para facilitar a
-interação entre usuários, permitindo o compartilhamento de conteúdo, conexão com outras pessoas e
-participação em comunidades online. Ele oferece recursos para criação de perfis de usuário, onde as
-pessoas podem compartilhar informações pessoais, fotos, vídeos e atualizações de status. Além disso,
-o sistema fornece funcionalidades para busca e conexão com outros usuários, seja por meio de
-amizades, seguidores ou grupos de interesse comum. Os usuários podem interagir uns com os outros
-por meio de curtidas, comentários e mensagens diretas. A plataforma também pode incluir recursos
-de personalização de privacidade, permitindo que os usuários controlem quem pode ver suas
-postagens e informações pessoais. Em resumo, um Sistema de Gerenciamento de Rede Social visa
-proporcionar uma experiência social online envolvente e personalizada para seus usuários.
+## Exercício 8
+8 - Sistema de Gerenciamento de Academia:
+Um Sistema de Gerenciamento de Academia é uma plataforma projetada para facilitar a
+administração e operação de academias de ginástica e centros de fitness. Ele permite o cadastro de
+membros, agendamento de aulas e monitoramento do desempenho dos alunos. Além disso, o sistema
+inclui funcionalidades para controle de acesso às instalações, gerenciamento de horários de
+funcionamento e cobrança de mensalidades. Os instrutores podem usar o sistema para criar e
+acompanhar planos de treinamento personalizados para os alunos, enquanto os membros podem
+acessar recursos como reservas de aulas e acompanhamento de progresso físico. O sistema também
+pode incluir funcionalidades para análise de dados e geração de relatórios para auxiliar na tomada de
+decisões administrativas. Em suma, o sistema visa otimizar a gestão interna e oferecer uma
+experiência personalizada e eficiente para os membros da academia.
 
 ## Diagrama de Classes
-![Atividade6](https://github.com/user-attachments/assets/5e7991ec-4328-43d8-93b6-e2baf8401781)
+![Atividade8](https://github.com/user-attachments/assets/eaf4bac5-b2e7-4807-b8c8-7f97d2dee2de)
