@@ -12,4 +12,4 @@ decisões administrativas. Em suma, o sistema visa otimizar a gestão interna e 
 experiência personalizada e eficiente para os membros da academia.
 
 ## Diagrama de Classes
-![Atividade8](https://github.com/user-attachments/assets/eaf4bac5-b2e7-4807-b8c8-7f97d2dee2de)
+![Atividade8](https://github.com/user-attachments/assets/e3a21a86-8fa7-46ed-98f5-32c41cce20a3)
