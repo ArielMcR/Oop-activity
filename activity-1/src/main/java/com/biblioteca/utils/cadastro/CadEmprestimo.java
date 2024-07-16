@@ -24,8 +24,8 @@ public class CadEmprestimo {
             Livro livroAtual = App.livros.get(i);
             System.out.println("| Opção " + i + " - " + livroAtual.getNomeDoLivro() + " |");
         }
-        // Simulação de escolha do livro (substitua com entrada do usuário real)
-        int opcaoLivro = sc.nextInt(); // supondo que o usuário escolha uma opção válida
+
+        int opcaoLivro = sc.nextInt();
         Livro livroEscolhido = App.livros.get(opcaoLivro);
         emprestimo.setLivro(livroEscolhido);
 
