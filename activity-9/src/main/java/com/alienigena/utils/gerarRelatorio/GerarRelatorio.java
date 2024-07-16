@@ -2,8 +2,8 @@ package main.java.com.alienigena.utils.gerarRelatorio;
 
 import java.util.Scanner;
 
-import main.java.com.hotel.utils.ExibirMenu;
-import main.java.com.hotel.utils.Roteador;
+import main.java.com.alienigena.utils.ExibirMenu;
+import main.java.com.alienigena.utils.Roteador;
 
 public class GerarRelatorio {
     public static void gerarRelatorio() {
