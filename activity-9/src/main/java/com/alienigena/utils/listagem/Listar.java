@@ -50,13 +50,13 @@ public class Listar {
     public void listarPontoTuristico() {
 
         if (App.pontoTuristicos.isEmpty()) {
-            System.out.println("Não há funcionários cadastrados.");
+            System.out.println("Não há pontos turísticos cadastrados.");
             System.out.println("Voltando...");
             return;
         }
 
         System.out.println("\033[H\033[2J");
-        System.out.print("|----------- Lista de funcionários cadastrados -----------|\n");
+        System.out.print("|----------- Lista de turísticos cadastrados -----------|\n");
         for (int i = 0; i < App.pontoTuristicos.size(); i++) {
             PontoTuristico pontoTuristicoAtual = App.pontoTuristicos.get(i);
             System.out.println("Nome: " + pontoTuristicoAtual.getNome());
